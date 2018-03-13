@@ -1,0 +1,54 @@
+html{
+	font-size: 18px;
+	background-color: #2a2a2a;
+	color: #dddddd;
+	font-family: "Fredoka One";
+}
+
+table, tr, td{
+	border: 3px solid #6b7783;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td{
+	width: 96px;
+	height: 96px;
+	text-align: center;
+}
+
+span{
+	padding: 4px 4px;
+	display: inline-block;
+}
+
+span:hover{
+	font-weight: 900;
+	cursor: pointer;
+	color: #ffffff;
+}
+
+.good{
+	background-color: #0c3c60;
+}
+
+.error{
+	background-color: #511c16;
+}
+
+#content{
+	width: 50vw;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+h5{
+	font-size: 12px;
+}
+
+img{
+	width: 96px;
+	height: auto;
+}
